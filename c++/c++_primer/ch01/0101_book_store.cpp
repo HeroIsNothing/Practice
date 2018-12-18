@@ -25,7 +25,5 @@ int main(int argc, char *argv[])
 		cout << total << endl;	// Print last book
 	}
 
-	string str = "hello world";
-	cout << str << endl;
 	return 0;
 }
